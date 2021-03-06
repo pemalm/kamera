@@ -1,0 +1,6 @@
+module Pods_RNCamera_RNCameraTests {
+  umbrella header "Pods-RNCamera-RNCameraTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

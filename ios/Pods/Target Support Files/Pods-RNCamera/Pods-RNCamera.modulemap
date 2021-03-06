@@ -1,0 +1,6 @@
+module Pods_RNCamera {
+  umbrella header "Pods-RNCamera-umbrella.h"
+
+  export *
+  module * { export * }
+}
